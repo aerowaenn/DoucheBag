@@ -1,0 +1,6 @@
+## Interface: 60100
+## Title : DoucheBag
+## Notes: Detecting the douchebags in raids
+## Author: Aerowaenn @ Magtheridon EU
+main.lua
+main.xml
