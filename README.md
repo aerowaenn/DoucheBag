@@ -1,2 +1,2 @@
-# DoucheBag
-Learning to write add-ons for World of Warcraft. This one is for detecting douchebags in raids. 
+# DoucheBagDetector
+A World of Warcraft add-on for detecting douchebags in raids. 
